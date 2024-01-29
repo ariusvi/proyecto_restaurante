@@ -14,9 +14,18 @@ body{
 .colc {
     display: flex;
     justify-content: center;
+    align-items: center; 
 }
 
 #central{
     border-radius: 1em;
+    background-color: #FFCDB2;
+}
+
+/* .navbar {
+    background-color: #FFB4A2;
+} */
+
+.down {
     background-color: #FFCDB2;
 }
