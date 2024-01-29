@@ -1,6 +1,6 @@
 
 body{
-    margin: 0;
+    margin: 2em;
     padding: 0;
 
     min-height: 100vh;
@@ -8,10 +8,16 @@ body{
 
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;   
 }
 
 .colc {
     display: flex;
     justify-content: center;
+}
+
+#imgName{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
 }
