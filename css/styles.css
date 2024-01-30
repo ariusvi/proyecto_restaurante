@@ -8,7 +8,9 @@ body{
 
     display: flex;
     justify-content: center;
-    align-items: center;   
+    align-items: center;  
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .colc {
@@ -22,9 +24,16 @@ body{
     background-color: #FFCDB2;
 }
 
-/* .navbar {
-    background-color: #FFB4A2;
-} */
+.navigation {
+    transition: 0.8s;
+}
+
+.navigation:hover{
+    background-color: #E5989B;
+    color: white;
+    border-radius: 0.5em;
+    cursor: pointer;
+}
 
 .down {
     background-color: #FFCDB2;
@@ -41,4 +50,8 @@ body{
 .icon {
     width: 2em;
     height: 2em;
+}
+
+.link {
+    color: rgb(110, 110, 110);
 }
