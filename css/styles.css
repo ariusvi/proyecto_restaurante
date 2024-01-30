@@ -17,7 +17,7 @@ body{
     align-items: center; 
 }
 
-#central{
+.central{
     border-radius: 1em;
     background-color: #FFCDB2;
 }
@@ -28,4 +28,17 @@ body{
 
 .down {
     background-color: #FFCDB2;
+
+    height: 3em;
+    
+    border-radius: 1em;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    width: 2em;
+    height: 2em;
 }
