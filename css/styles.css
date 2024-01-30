@@ -22,6 +22,7 @@ body{
 .central{
     border-radius: 1em;
     background-color: #FFCDB2;
+    margin: 0.5em;
 }
 
 .navigation {
