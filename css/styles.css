@@ -17,13 +17,33 @@ body{
     display: flex;
     justify-content: center;
     align-items: center; 
+
+    margin: 0.5em;
+}
+
+.colBottom {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
 }
 
 .central{
     border-radius: 1em;
     background-color: #FFCDB2;
     margin: 0.5em;
+
 }
+
+.menu{
+    border-radius: 1em;
+    background-color: #FFCDB2;
+    margin: 0.5em;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
 
 .navigation {
     transition: 0.8s;
@@ -65,4 +85,8 @@ body{
 .link {
     color: rgb(110, 110, 110);
     text-decoration:none
+}
+
+.cardMenu{
+    min-height: 15em;
 }
