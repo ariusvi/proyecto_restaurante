@@ -1,8 +1,13 @@
 # Kyoto Ramen 🍜
-Welcome to the Kyoto Ramen's website documentation. 
+Welcome to the Kyoto Ramen's website documentation. This website recreates a website of a ficticional restaurant.
 
 
-## Table of Contest
+## Table of Contents
+* href="#Stack"
+* Features
+* Live Deployment
+* Author
+* Acknowledgements
 
 ## Stack
 
