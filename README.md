@@ -3,7 +3,7 @@ Welcome to the Kyoto Ramen's website documentation. This website recreates a web
 
 
 ## Table of Contents
-* href="#Stack"
+* <a href="#stack">Stack</a>
 * Features
 * Live Deployment
 * Author
